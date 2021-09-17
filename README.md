@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## PHP & JS
-(About me){https://zeniaroman.github.io/}
+[About me](https://zeniaroman.github.io/)
 
 <!--
 **zeniaroman/zeniaroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
